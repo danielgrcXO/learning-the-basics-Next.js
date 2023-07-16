@@ -1,0 +1,22 @@
+.firstUserContainer{
+    padding: 5%;
+    border: 1px solid rgba(128, 128, 128, 0.22);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(128, 128, 128, 0.201);
+}
+
+.pageTitle{
+    font-size: 30px;
+    margin-bottom: 10px;
+    color:rgb(12, 81, 102)
+}
+
+.imageProfile{
+    border-radius: 10px;
+    margin-bottom: 9px;
+}
+
+.backButton{
+    color: blue;
+}
+

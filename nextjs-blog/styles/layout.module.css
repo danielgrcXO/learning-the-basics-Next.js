@@ -1,0 +1,10 @@
+.layoutContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    border: 4px;
+    border-color: beige;
+    margin: 4%;
+    padding:3%;
+}
