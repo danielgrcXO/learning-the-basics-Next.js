@@ -19,6 +19,7 @@ export default function Home() {
         </p>
 
         <Link href='/users/first-user'>Go to user-page</Link>
+        <Link href='/users/all'>Go to User list</Link>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
